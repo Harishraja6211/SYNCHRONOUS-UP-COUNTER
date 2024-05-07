@@ -1,4 +1,3 @@
-![325875062-66fc43d1-92e2-44d8-aa13-34c31b4f100a](https://github.com/Harishraja6211/SYNCHRONOUS-UP-COUNTER/assets/154001429/dea868f0-496b-4b87-97dd-3f95a35cc2cb)### SYNCHRONOUS-UP-COUNTER
 
 **AIM:**
 
